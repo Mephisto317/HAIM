@@ -1,7 +1,6 @@
 ## Run
 
 ```bash
-cd MKVCP/HAIM/code
 g++ -std=c++11 -O3 HAIM.cpp -o haim-periodic
 ./haim-periodic ../data/dimacs/brock800_2.mis 698 1 1800
 ```
